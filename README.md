@@ -1,14 +1,21 @@
-## Hi Everyone  👋
+## Hi, I'm Dibyajyoti Panda! 👋
 
-DIBYAJYOTIPANDA/DIBYAJYOTIPANDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>DevOps Engineer | Cloud Enthusiast | Automation Aficionado</b>
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about bridging the gap between development and operations by automating processes, building CI/CD pipelines, and leveraging cloud infrastructure to deploy scalable and resilient systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Technologies & Tools I Work With
+Cloud Platforms: AWS, Azure
+Infrastructure as Code: Terraform, CloudFormation, Ansible
+CI/CD Tools: Jenkins, GitLab CI
+Containerization: Docker, Kubernetes, Helm
+Monitoring & Logging: Prometheus, Grafana, ELK Stack
+Scripting & Automation: Bash, Python, PowerShell
+Version Control: Git, GitLab, GitHub
+Databases: MySQL, PostgreSQL, MongoDB
+
+
+📫 Get in Touch
+LinkedIn: [Dibyajyoti Panda](https://www.linkedin.com/in/dibyajyoti-panda-b5078a18b/)
+Email: dibyajyoti.lit@gmail.com
+
